@@ -1,17 +1,17 @@
 # Robot Joint 3D Printing Guide
 
-## 🧩 Overview
+## Overview
 This is an enhanced mechanical joint for a 6-DOF robotic arm, designed to be 3D printed for durability and structural strength. It includes mounting holes and structural reinforcement for real-world load handling.
 
 ![photo](joint-3.png)
 
 ---
 
-## 🧪 Material Selection
+## Material Selection
 
-## 🚀 **Nylon (PA) - PREMIUM CHOICE BECAUSE:**
+## **Nylon (PA) - PREMIUM CHOICE BECAUSE:**
 
-#### 🌟 It Has Superior Advantages for Robot Joint:
+#### It Has Superior Advantages for Robot Joint:
 
 ##### Exceptional Mechanical Properties:
 - **Tensile Strength**: 70-85 MPa (stronger than PETG and ABS)
@@ -31,9 +31,9 @@ This is an enhanced mechanical joint for a 6-DOF robotic arm, designed to be 3D 
 
 ---
 
-## ⚙️ Optimal Print Settings
+## Optimal Print Settings
 
-### 🖨️ Quality Settings
+### Quality Settings
 
 | Parameter | Value | Reason |
 |-----------|-------|---------|
@@ -41,7 +41,7 @@ This is an enhanced mechanical joint for a 6-DOF robotic arm, designed to be 3D 
 | **Line Width** | 0.4 mm | Optimal for nylon flow characteristics |
 
 
-### 🏗️ Strength Settings
+### Strength Settings
 
 | Parameter | Value | Reason |
 |-----------|-------|---------|
@@ -52,7 +52,7 @@ This is an enhanced mechanical joint for a 6-DOF robotic arm, designed to be 3D 
 | **Bottom Layers** | 4 layers | Solid foundation |
 
 
-### 🔧 support Settings (Nylon)
+### support Settings (Nylon)
 | Parameter | Value |
 |-----------|-------|
 | **generate support material** | ✅ | 
